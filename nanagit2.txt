@@ -1,4 +1,0 @@
-working area
-staging area
-commit area
-
